@@ -1,0 +1,7 @@
+{"ffmpeg": {"digest": "f7e32966ba568289", "verdict": "APPROVE", "note": "instructions only"}, "skill-inspector": {"digest": "7ee4fd8df9f38aa5", "verdict": "APPROVE", "note": "instructions only"},
+"ai-story-shorts": {"digest": "b0679c7ee793cf6a", "verdict": "APPROVE", "note": "local ffmpeg only"},
+"faceless-shorts": {"digest": "3d35fdfe31b33497", "verdict": "CAUTION", "note": "unpinned pip; public temp host on YouTube upload; rm flags are own temp files"},
+"plugin:watch-video": {"digest": "e111b05d0f7a007d", "verdict": "CAUTION", "note": "keys go only to own provider/Jira; pyc matches source"},
+"plugin:b911d56b-2541-4704-9197-6df24a0273f5": {"digest": "a71b7db899bc21f3", "verdict": "CAUTION", "note": "older duplicate of watch-video"},
+"web-components-style-guide": {"digest": "d86bbc1819a27b32", "verdict": "APPROVE", "note": "instructions only, no findings"},
+"plugin:8cc1afaf-f7a8-48ad-be6f-c3d096b6329e": {"digest": "0d0df06568e46c97", "verdict": "APPROVE", "note": "official GitHub MCP; token goes only to GitHub"}}
