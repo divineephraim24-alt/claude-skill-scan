@@ -4,4 +4,5 @@
 "plugin:watch-video": {"digest": "e111b05d0f7a007d", "verdict": "CAUTION", "note": "keys go only to own provider/Jira; pyc matches source"},
 "plugin:b911d56b-2541-4704-9197-6df24a0273f5": {"digest": "a71b7db899bc21f3", "verdict": "CAUTION", "note": "older duplicate of watch-video"},
 "web-components-style-guide": {"digest": "d86bbc1819a27b32", "verdict": "APPROVE", "note": "instructions only, no findings"},
-"plugin:8cc1afaf-f7a8-48ad-be6f-c3d096b6329e": {"digest": "0d0df06568e46c97", "verdict": "APPROVE", "note": "official GitHub MCP; token goes only to GitHub"}}
+"plugin:8cc1afaf-f7a8-48ad-be6f-c3d096b6329e": {"digest": "0d0df06568e46c97", "verdict": "APPROVE", "note": "official GitHub MCP; token goes only to GitHub"},
+"plugin:design-taste-frontend": {"digest": "3f5a96e09aa26c32", "verdict": "CAUTION", "note": "MIT tasteskill 2.5.1; runs local Chrome scripts and a Stop-hook gate only during its own builds; fetches public photos/icons/fonts; toolkit rules win"}}
